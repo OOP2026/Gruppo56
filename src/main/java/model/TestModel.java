@@ -1,8 +1,6 @@
-package prova;
+package model;
 
-import model.Utente;
-
-public class Main {
+public class TestModel {
 
 	public static void main(String[] args) {
 		Utente u = new Utente("topolino","minni");
